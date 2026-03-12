@@ -1,24 +1,28 @@
-[Experience](https://github.com/Atreyu4EVR#experience) | [Education](https://github.com/Atreyu4EVR#education) | [Research](https://github.com/Atreyu4EVR#research) | [AI Projects](https://github.com/Atreyu4EVR#ai-projects) | [Connect](https://github.com/Atreyu4EVR#connect-with-me)
+[Experience](https://github.com/Atreyu4EVR#experience) | [Education](https://github.com/Atreyu4EVR#education) | [Research](https://github.com/Atreyu4EVR#research) | [Connect](https://github.com/Atreyu4EVR#connect-with-me)
 
 ***Follow me on Medium.com ➜ [medium.com/@ronvallejo](https://medium.com/@ronvallejo)***
 
 # About Me
 
-AI Engineer, researcher, and educator based in Rexburg, Idaho. Currently leading AI development at Brigham Young University–Idaho, where I build intelligent automation systems, deploy support agents, and conduct applied research in retrieval-augmented generation. My work spans OpenAI, Anthropic, HuggingFace, and local inference tools, with a focus on leveraging AI to enhance cost, quality, experience, and reach—core principles guiding BYU-Idaho's digital transformation strategy.
+AI Solutions Architect, researcher, and educator based in Rexburg, Idaho. I serve as the primary technical architect for artificial intelligence at Brigham Young University-Idaho, where I design, build, and maintain AI-enabled systems that integrate with enterprise platforms and support institutional technology initiatives. My work spans RAG architecture, agentic frameworks, multi-agent orchestration, and AI observability — with a focus on building solutions that are secure, maintainable, and aligned with long-term institutional strategy.
+
+I establish architectural patterns, technical standards, and best practices for AI across IT, while actively delivering production solutions, proofs of concept, and reference implementations. My toolkit includes OpenAI, Anthropic, LangChain/LangGraph, and Azure — applied toward cost, quality, experience, and reach, the core principles guiding BYU-Idaho's digital transformation.
 
 Adjunct Professor in Computer Science, teaching Introduction to Programming with an emphasis on hands-on, project-based learning. Background in IT management blends architecture, development, and innovation.
 
-Committed to helping others grow through challenges—including ADHD—while actively mentoring and building systems that uplift. A husband, father of five, and disciple of Jesus Christ. Open to conversations about faith, technology, leadership, and how they intersect.
+Committed to helping others grow through challenges — including ADHD — while actively mentoring and building systems that uplift. A husband, father of five, and disciple of Jesus Christ. Open to conversations about faith, technology, leadership, and how they intersect.
 
 ## Experience
 
-### AI Engineer
-**BYU-Idaho Department of Information Technology** · Feb 2025 – Present
-- Develop, test, and deploy AI solutions aligned with institutional goals, including cost-effectiveness, scalability, and user experience.
-- Design and orchestrate AI agents to augment university operations and integrations.
-- Build with a range of LLM technologies including OpenAI, Anthropic, HuggingFace, and local open-source models.
-- Lead architectural strategy for AI integration and knowledge management using vector databases, semantic search, and prompt engineering.
-- Partner with departments to identify opportunities for automation and intelligent systems that support enrollment, retention, and innovation.
+### AI Solutions Architect
+**BYU-Idaho Department of Information Technology** · 2025 – Present
+- Serve as the university's primary technical architect for AI solutions, designing systems that integrate with existing enterprise platforms.
+- Define and document architectural patterns, technical standards, and best practices for AI use within IT-supported systems.
+- Develop production AI solutions, proofs of concept, and reference implementations spanning RAG architecture, agentic frameworks, prompt engineering, and AI observability.
+- Evaluate AI technologies, platforms, and vendors for technical suitability, risk, and alignment with institutional standards.
+- Provide architectural guidance and technical consultation to software engineers and IT teams implementing AI functionality.
+- Member of the IT Project Council.
+- Oversee student employees contributing to AI-related automation and solution development.
 
 ### Adjunct Professor
 **BYU-Idaho College of Physical Science and Engineering** · Current
@@ -52,12 +56,6 @@ An applied research project implementing Anthropic's Contextual Retrieval method
 - Discovered that general-purpose reranking models degrade performance on specialized religious texts (p=0.011)
 
 [GitHub Repository](https://github.com/Atreyu4EVR/Scripture-Contextual-Retrieval)
-
-## AI Projects
-
-**[Scripture-Contextual-Retrieval](https://github.com/Atreyu4EVR/Scripture-Contextual-Retrieval)** — Contextual retrieval pipeline for the LDS Standard Works with full evaluation framework. Implements IP-compliant methodology for AI-augmented scripture study.
-
-**[Python-Tutor](https://byui-python-tutor.streamlit.app/)** — AI-powered programming tutor developed for BYU-Idaho's Introduction to Programming course. Provides personalized assistance to students learning Python.
 
 ## Connect With Me
 
