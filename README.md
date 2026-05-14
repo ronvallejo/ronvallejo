@@ -15,7 +15,7 @@ Committed to helping others grow through challenges — including ADHD — while
 ## Experience
 
 ### AI Solutions Architect
-**BYU-Idaho Department of Information Technology** · 2025 – Present
+**BYU-Idaho Department of Information Technology** _(Feb 2026 – Present)_
 - Serve as the university's primary technical architect for AI solutions, designing systems that integrate with existing enterprise platforms.
 - Define and document architectural patterns, technical standards, and best practices for AI use within IT-supported systems.
 - Develop production AI solutions, proofs of concept, and reference implementations spanning RAG architecture, agentic frameworks, prompt engineering, and AI observability.
@@ -24,14 +24,23 @@ Committed to helping others grow through challenges — including ADHD — while
 - Member of the IT Project Council.
 - Oversee student employees contributing to AI-related automation and solution development.
 
+### AI ENGINEER
+**BYU-Idaho Department of Information Technology** _(Feb 2025 – Feb 2026)_
+
+- Develop, test, and deploy AI solutions aligned with institutional goals, including cost-effectiveness, scalability, and user experience.
+- Design and orchestrate AI agents to augment university operations and integrations.
+- Build with a range of LLM technologies including OpenAI, Anthropic, HuggingFace, and local open-source models.
+- Lead architectural strategy for AI integration and knowledge management using vector databases, semantic search, and prompt engineering.
+- Partner with departments to identify opportunities for automation and intelligent systems that support enrollment, retention, and innovation.
+
 ### Adjunct Professor
-**BYU-Idaho College of Physical Science and Engineering** · Current
+**BYU-Idaho College of Physical Science and Engineering** _(April 2024 – Present)_
 - Redesigned Introduction to Programming (CSE 110) with a project-based learning approach, enabling students to build fully functional Python applications over the semester.
 - Developed [Python-Tutor](https://byui-python-tutor.streamlit.app/), a generative AI-powered programming tutor.
 - Integrate AI tools into curriculum to equip students with skills relevant to the evolving technology landscape.
 
 ### IT Service Desk Manager
-**BYU-Idaho Department of Information Technology** · Sept 2017 – Feb 2025
+**BYU-Idaho Department of Information Technology** _(Sept 2017 – Feb 2025)_
 - Pioneered implementation of AI chatbot technologies, enhancing customer support and operational efficiency.
 - Developed the [IT Help Center](https://td.byui.edu/TDClient/79/ITHelpCenter/Home/), consolidating IT service management into one integrated web application.
 - Integrated Knowledge-Centered Service (KCS) methodology, achieving 80% zero-day resolution rate.
