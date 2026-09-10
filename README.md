@@ -64,7 +64,14 @@ An applied research project implementing Anthropic's Contextual Retrieval method
 - Demonstrated 5.4% improvement in Precision@5 and 4.6% improvement in NDCG@10 over traditional RAG approaches
 - Discovered that general-purpose reranking models degrade performance on specialized religious texts (p=0.011)
 
-[GitHub Repository](https://github.com/Atreyu4EVR/Scripture-Contextual-Retrieval)
+**Replication at scale** — 41,995 verses, 152 held-out questions with hand-verified gold passages:
+- Contextual embeddings raised MRR from 0.751 to 0.832 and recall@1 from 64% to 74% (p = 0.0004)
+- Cut top-10 retrieval failure rate by 36%, closely tracking the 35% Anthropic reported for Contextual Embeddings on technical corpora
+- Gain is 2.3x larger on queries whose wording does not appear in the verse — the mechanism the technique predicts, isolated by an objective lexical-overlap split
+- Confirmed the earlier reranking finding at larger scale: cross-encoder reranking dropped recall@1 from 77% to 53%, diverging from Anthropic's result on modern prose
+- Published the corpus and embeddings as an open dataset for independent replication
+
+[GitHub Repository](https://github.com/Atreyu4EVR/Scripture-Contextual-Retrieval) · [Dataset on Hugging Face](https://huggingface.co/datasets/Atreyu4EVR/standard-works-contextual-embeddings)
 
 ## Connect With Me
 
